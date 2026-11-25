@@ -1,0 +1,15 @@
+{
+  "name": "ratio-plugins",
+  "description": "Ratio's real estate tools for Claude Cowork",
+  "owner": {
+    "name": "Ratio"
+  },
+  "plugins": [
+    {
+      "name": "ratio",
+      "displayName": "Ratio",
+      "source": "./plugins/ratio",
+      "description": "Real estate toolkit"
+    }
+  ]
+}
